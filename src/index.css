@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  font-family: 'Roboto Slab', serif;
+  transition: all .7s;
+}
+
+blockquote{
+  margin: 0 40px;
+}
+
+button{
+box-shadow: 7px 4px 30px rgba(0, 0, 0, 0.3);
+backdrop-filter: blur(8.8px);
+-webkit-backdrop-filter: blur(8.8px);
+color: rgba(58, 54, 54, 0.644);
+}
+
+
+button:active{
+  scale: .9;
+  
+}
